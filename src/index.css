@@ -1,0 +1,93 @@
+.border1{
+    border: 1px solid black!important;
+}
+.nav-bg{
+    background-color: rgb(75, 94, 122);
+}
+.login{
+    padding: 2%;
+    box-shadow: 5px 5px  10px black inset;
+    position: relative;
+    top: 10%;
+    left: 10%;    
+}
+.errors{
+    position: absolute;
+    top: 42%;
+    left: 70%;
+    padding: 10px 10px;
+    color: red;
+    transform: rotate(20deg);
+}
+.searchbar{
+    height: 5%;   
+}
+.sidebar{
+    width: 100px;
+}
+.text{
+    font-size: 20px;    
+}
+.list{
+    list-style: none;   
+}
+.font{
+    font-family:  'Arial Narrow Bold';
+}
+.bg{
+    height: 90vh;
+    background-image: url("4754422.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.register{
+    height: 90vh;
+    background-image: url("360_F_117332203_ekwDZkViF6M3itApEFRIH4844XjJ7zEb.jpg");
+    background-size: cover;
+    height: 100vh;
+    filter: blur(10px);   
+}
+.reg-card{
+    position: absolute;
+  top: 10%;
+  left: 30%;
+}
+.reg-check{
+    width: 10px;
+}
+.card-padding{
+    padding-left: 10%;
+}
+.border12{
+    background-color: aqua;
+}
+.product{
+    width: 50%;
+    margin-bottom: 20px;
+    margin-left: 10%;   
+}
+.text{
+    font-family: didot;
+    font-weight: bold;
+}
+.text1{
+    font-family: prata;
+}
+.card{
+    border-bottom: 0px solid;
+    box-shadow: 1px 1px 10px grey;
+}
+.bg1{
+    background-color: rgb(255, 255, 255);
+}
+li{
+    list-style-type: none;
+}
+
+@media screen and (max-width:500px) 
+{
+    .login{
+        margin: 15% 20%;
+        width: 60%;      
+    }
+}

@@ -1,0 +1,253 @@
+{
+    "brands": [
+      {
+        "id": 1,
+        "brandname": "apple"
+      },
+      {
+        "id": 2,
+        "brandname": "samsung"
+      },
+      {
+        "id": 3,
+        "brandname": "sony"
+      },
+      {
+        "id": 4,
+        "brandname": "carrier"
+      },
+      {
+        "id": 5,
+        "brandname": "dell"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "categoryname": "mobiles"
+      },
+      {
+        "id": 2,
+        "categoryname": "electronics"
+      },
+      {
+        "id": 3,
+        "categoryname": "appliciances"
+      }
+    ],
+    "product": [
+      {
+        "id": 1,
+        "productName": "iPhone 14 pro max",
+        "price": 8900,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      },
+      {
+        "id": 2,
+        "productName": "iPhone 14 pro",
+        "price": 9999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://phonebox.com.mt/wp-content/uploads/2022/11/0021403_iphone-14-pro.jpeg"
+      },
+      {
+        "id": 3,
+        "productName": "iPhone 14 plus",
+        "price": 10999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 5,
+        "src": "https://freebrowsinglink.b-cdn.net/wp-content/uploads/2022/09/iPhone-14.jpg"
+      },
+      {
+        "id": 4,
+        "productName": "iPhone 13",
+        "price": 6999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 3,
+        "src": "https://www.dslr-zone.com/wp-content/uploads/2021/10/3-2-768x768.jpeg"
+      },
+      {
+        "id": 5,
+        "productName": "iPhone 13 Pro Max",
+        "price": 7999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://tejarra-media.s3.amazonaws.com/70585/medialibraryGRBT2z"
+      },
+      {
+        "id": 6,
+        "productName": "iPhone 13 pro",
+        "price": 11999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 5,
+        "src": "https://media.idownloadblog.com/wp-content/uploads/2021/09/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_09142021-1248x2048.jpg"
+      },
+      {
+        "id": 7,
+        "productName": "iPhone 12 pro max",
+        "price": 5999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 3,
+        "src": "https://assets.swappie.com/swappie-product-iphone-12-pro-max-pacific-blue.png"
+      },
+      {
+        "id": 8,
+        "productName": "iPhone 12 pro",
+        "price": 12999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 5,
+        "src": "https://johnlewis.scene7.com/is/image/JohnLewis/239091988?$rsp-pdp-port-1440$"
+      },
+      {
+        "id": 9,
+        "productName": "iPhone 12",
+        "price": 8999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://mediacenterpk.com/image/catalog/Apple/03-10-19/Apple/iphone-12/64-GB/White-Size.png"
+      },
+      {
+        "id": 10,
+        "productName": "iPhone 11 pro",
+        "price": 13999,
+        "quantity": 10,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 5,
+        "src": "https://th.bing.com/th/id/OIP.b-ImjXFxwxshIuOXtvS-5wHaHa?pid=ImgDet&rs=1"
+      },
+      {
+        "id": 11,
+        "productName": "iPhone 11",
+        "price": 8900,
+        "quantity": 0,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://d28i4xct2kl5lp.cloudfront.net/product_images/1588673534.729702.jpg"
+      },
+      {
+        "id": 12,
+        "productName": "Sony Camera",
+        "price": 4500,
+        "quantity": 0,
+        "brandid": 3,
+        "categoryid": 2,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      },
+      {
+        "id": 13,
+        "productName": "Samsung QLED TV",
+        "price": 7745,
+        "quantity": 0,
+        "brandid": 2,
+        "categoryid": 2,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      },
+      {
+        "id": 14,
+        "productName": "iPad Pro",
+        "price": 12400,
+        "quantity": 0,
+        "brandid": 1,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      },
+      {
+        "id": 15,
+        "productName": "sony mobile",
+        "price": 7780,
+        "quantity": 0,
+        "brandid": 3,
+        "categoryid": 1,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      },
+      {
+        "id": 16,
+        "productName": "Dell Monitor",
+        "price": 880,
+        "quantity": 0,
+        "brandid": 5,
+        "categoryid": 2,
+        "rating": 4,
+        "src": "https://www.mobilepagla.com/wp-content/uploads/2021/05/Apple-iPhone-14-Pro-Max.jpg"
+      }
+    ],
+    "users": [
+      {
+        "email": "admin@gmail.com",
+        "password": "test123",
+        "fullname": "admin",
+        "dob": "2023-07-13",
+        "gender": "male",
+        "country": "uk",
+        "id": 1
+      }
+    ],
+    "order": [
+      {
+        "id": 1,
+        "userid": 1,
+        "productid": 1,
+        "quantity": 2,
+        "ispayment": true
+      },
+      {
+        "id": 2,
+        "userid": 1,
+        "productid": 2,
+        "quantity": 2,
+        "ispayment": true
+      },
+      {
+        "id": 3,
+        "userid": 1,
+        "productid": 3,
+        "quantity": 2,
+        "ispayment": true
+      },
+      {
+        "id": 4,
+        "userid": 1,
+        "productid": 4,
+        "quantity": 2,
+        "ispayment": true
+      },
+      {
+        "id": 5,
+        "userid": 1,
+        "productid": 5,
+        "ispayment": true
+      },
+      {
+        "id": 6,
+        "userid": 1,
+        "productid": 1,
+        "ispayment": true
+      }
+    ]
+}
